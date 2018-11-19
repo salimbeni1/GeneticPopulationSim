@@ -144,7 +144,7 @@ NOTE: If you do not provide those informations, default one will be provided.
 
 ## output
 
-Example: ![example](https://github.com/EPFL-SV-cpp-projects/Team_1/blob/master/extra/Frequenza_delle_Allele.png)
+Example: ![example](https://github.com/salimbeni1/GeneticPopulationSim/blob/master/extra/Frequenza_delle_Allele.png)
 
 The Output file is available after the simulation has ran in the
 build directory as "Output.txt"
